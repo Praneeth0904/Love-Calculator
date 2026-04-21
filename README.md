@@ -22,10 +22,9 @@ HTML5 • CSS3 • JavaScript
 
 ## 📸 Preview
 
-```
-![image alt](https://github.com/Praneeth0904/Love-Calculator/blob/bf1f0399d1b1cd8e63ec463035d451010919ee30/Love-caluclator.png)
 
-```
+![image alt](https://github.com/Praneeth0904/Love-Calculator/blob/c4b83086f86e46af30cc8b23f78195a37de932c3/Love-caluclator.png)
+
 
 ---
 
@@ -36,13 +35,12 @@ HTML5 • CSS3 • JavaScript
 ├── style.css
 └── script.js
 ```
-
 ---
 
 ## ⚙️ How to Use
 
 1. Clone the repository
-2. Open `index.html` in your browser
+2. Open 'index.html' in your browser
 3. Start using the application
 
 ---
