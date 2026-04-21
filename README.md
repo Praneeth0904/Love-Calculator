@@ -23,8 +23,7 @@ HTML5 • CSS3 • JavaScript
 ## 📸 Preview
 
 ```
-<img width="1920" height="1020" alt="Screenshot 2026-04-21 095455" src="https://github.com/user-attachments/assets/5d75cdfd-a2ca-4933-9caa-1bef5c4fbbeb" />
-
+![image alt](https://github.com/Praneeth0904/Love-Calculator/blob/main/Love-caluclator.png?raw=true)
 
 ```
 
