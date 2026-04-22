@@ -22,8 +22,8 @@ HTML5 • CSS3 • JavaScript
 
 ## 📸 Preview
 
+https://github.com/user-attachments/assets/32dca9d4-e815-4c60-933c-fe0c02207c7f
 
-![image alt](https://github.com/Praneeth0904/Love-Calculator/blob/2d01f57376608556ea38b5129de0b068d68986f8/Images/Love-caluclator.png)
 
 
 ---
